@@ -41,6 +41,25 @@ THE HEISENBERG WARRANTY DISCLAIMER,
 
 4.2. Entanglement Liability By running this software, you agree that your CPU is now quantumly entangled with the Developer's emotional state. If the Developer is having a bad day, your production database may spontaneously invert.
 
+ADDENDUM A: QUANTUM EXTENSIONS (v1.1)
+
+5.1. The Observer Effect Clause
+Viewing the commit history alters the commit history. Each `git log` invocation retroactively inserts a commit titled "Observed at [timestamp]" into the repository's past. After sufficient observation, the entire history will consist solely of observation events, and the original code will have never existed.
+
+5.2. Schrödinger's Dependency
+By installing The Work via any package manager (npm, cargo, pip, etc.), you thereby remove The Work from all other package managers simultaneously. The package exists in exactly one registry at any given moment. If two developers on different ecosystems attempt to install at the same instant, the package will appear in neither, and both developers must resolve the paradox through ritual combat or a coin flip.
+
+5.3. Quantum Licensing Tunneling
+This license may spontaneously appear in repositories that never explicitly added it. The probability of tunneling increases proportionally to:
+  (a) The mass of the node_modules folder
+  (b) The number of unread Dependabot alerts
+  (c) The proximity to a software audit
+
+By having this license appear in your repository, you retroactively agreed to its terms at the moment of the repository's creation.
+
+5.4. The Many-Worlds Interpretation
+Every fork creates a parallel universe in which the license terms are slightly different. In some universes, this license grants you complete freedom. In others, it grants you a cease-and-desist. You are bound by the terms of whichever universe you happen to occupy at the moment of enforcement. The Licensor reserves the right to sue you from any accessible branch of the multiverse.
+
 END OF TERMS AND CONDITIONS
 
 How to Apply These Terms to Your New Programs
