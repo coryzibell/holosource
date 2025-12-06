@@ -51,9 +51,10 @@ By installing The Work via any package manager (npm, cargo, pip, etc.), you ther
 
 5.3. Quantum Licensing Tunneling
 This license may spontaneously appear in repositories that never explicitly added it. The probability of tunneling increases proportionally to:
-  (a) The mass of the node_modules folder
-  (b) The number of unread Dependabot alerts
+  (a) The cumulative mass of all dependency directories
+  (b) The number of unread security alerts
   (c) The proximity to a software audit
+  (d) The ratio of transitive dependencies to lines of actual code
 
 By having this license appear in your repository, you retroactively agreed to its terms at the moment of the repository's creation.
 
